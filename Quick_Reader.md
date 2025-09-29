@@ -1,7 +1,3 @@
-Of course. Here is a more detailed explanation of the SOLID principles, complete with the mall/e-commerce analogy and expanded coding examples for each principle.
-
------
-
 ## **S - Single-Responsibility Principle (SRP)**
 
 ### The Principle
