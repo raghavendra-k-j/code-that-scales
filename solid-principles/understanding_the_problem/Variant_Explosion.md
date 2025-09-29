@@ -231,4 +231,3 @@ def test_checkout_isolated_from_variants(card_order: Order):
 
 - Previous: [Ripple Effect and Regressions](./Ripple_Effect_And_Regressions.md)
 - Next: [Testing Friction](./Testing_Friction.md)
-```

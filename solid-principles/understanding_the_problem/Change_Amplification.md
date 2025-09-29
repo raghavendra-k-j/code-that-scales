@@ -233,5 +233,5 @@ def analytics_track_order(items: List[Item], user_tier: str, coupon: str):
 
 ## Navigation
 
-- ⬅️ Previous: [Index](./index.md)
-- ➡️ Next: [1.2.2 Ripple Effects & Regressions](./Ripple_Effect_And_Regressions.md)
+- Previous: [Index](./Index.md)
+- Next: [1.2.2 Ripple Effects & Regressions](./Ripple_Effect_And_Regressions.md)

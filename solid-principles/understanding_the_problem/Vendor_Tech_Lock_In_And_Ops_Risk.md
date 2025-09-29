@@ -142,5 +142,5 @@ def make_notifier(logger, http_client, twilio_client) -> Notifier:
 
 ## Navigation
 
-- ⬅️ Previous: [1.2.5 Team Drag & Merge Conflicts](./Team_Drag_And_Merge_Conflicts.md)
-- 🔙 Back to overview: [Index](./index.md)
+- Previous: [1.2.5 Team Drag & Merge Conflicts](./Team_Drag_And_Merge_Conflicts.md)
+- Back to overview: [Index](./Index.md)
