@@ -155,4 +155,4 @@ def test_checkout_writes_repo_and_charges_gateway():
 
 - Previous: [1.2.3 Variant Explosion](./Variant_Explosion.md)
 - Next: [1.2.5 Team Drag & Merge Conflicts](./Team_Drag_And_Merge_Conflicts.md)
-- Back to overview: [Index](./Index.md)
+- Back to overview: [README](./README.md)

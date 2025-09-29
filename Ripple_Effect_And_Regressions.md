@@ -183,4 +183,4 @@ contract_tests(CourierBAdapter(CourierBClient()))
 
 - Previous: [1.2.1 Change Amplification](./Change_Amplification.md)
 - Next: [1.2.3 Variant Explosion](./Variant_Explosion.md)
-- Back to overview: [Index](./Index.md)
+- Back to overview: [README](./README.md)
