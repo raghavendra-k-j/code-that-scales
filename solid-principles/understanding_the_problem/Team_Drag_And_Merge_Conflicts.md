@@ -142,6 +142,6 @@ def make_order_workflow():
 
 ## Navigation
 
-- ⬅️ Previous: [1.2.4 Testing Friction](./Testing_Friction.md)
-- ➡️ Next: [1.2.6 Vendor & Ops Lock-In](./Vendor_Tech_Lock_In_And_Ops_Risk.md)
-- 🔙 Back to overview: [Index](./index.md)
+- Previous: [1.2.4 Testing Friction](./Testing_Friction.md)
+- Next: [1.2.6 Vendor & Ops Lock-In](./Vendor_Tech_Lock_In_And_Ops_Risk.md)
+- Back to overview: [Index](./Index.md)
