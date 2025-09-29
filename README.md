@@ -1,5 +1,7 @@
 # Code That Scales
 
+For a quick overview of SOLID principles, see [Quick Reader](./Quick_Reader.md).
+
 ## Chapter 1: Understanding the Problem
 
 ### 1.1 The Blast Radius
