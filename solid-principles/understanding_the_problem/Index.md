@@ -9,6 +9,8 @@ When pricing, payments, or shipping rules change, you end up touching many files
 The more places you edit, the higher the chance of bugs and delays. Deploys feel risky, reviews take longer, and teams block each other.
 This is the **blast radius**—how far a single change spreads across your code and your team.
 
+Continue to **[1.2.1 Change amplification (SRP, DIP)](./Change_Amplification.md)** to see how small requests balloon into multi-file edits.
+
 ---
 
 ### 1.2 The pain shows up in six predictable ways
