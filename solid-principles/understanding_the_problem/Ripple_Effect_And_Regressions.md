@@ -57,6 +57,9 @@ def place_shipment(address: dict, weight_kg: float):
 		tracking_id = rec["id"]
 		eta_hours = rec["eta_minutes"] / 60.0
 		return {"tracking_id": tracking_id, "eta_hours": eta_hours}
+```
+
+---
 
 ## After — explicit contract with adapters
 
